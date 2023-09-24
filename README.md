@@ -35,7 +35,7 @@ USE_TZ = True
 3- **فایل rtl.css**: در مسیر زیر فایل rtl.css را جایگذاری کنید:
 
 ```bash
-staic/admin/css/rtl.css
+static/admin/css/rtl.css
 ```
 
 5. **اجرای سرور**: سرور جنگو را اجرا کنید.
